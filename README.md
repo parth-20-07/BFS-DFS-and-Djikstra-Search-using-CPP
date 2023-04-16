@@ -1,7 +1,3 @@
-**Homework 1**
-
-**HW 1: Breadth-First Search and Depth-First Search Implementation**
-
 **Table of Contents**
 <!-- TOC -->
 
